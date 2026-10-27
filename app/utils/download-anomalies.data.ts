@@ -33,7 +33,7 @@ export const DOWNLOAD_ANOMALIES: DownloadAnomaly[] = [
     start: { date: '2026-07-09', weeklyDownloads: 10 },
     end: { date: '2026-07-11', weeklyDownloads: 10 },
   },
-  // elm unexplained spike to 1M downloads 
+  // elm unexplained spike to 1M downloads
   {
     packageName: 'elm',
     start: { date: '2025-08-30', weeklyDownloads: 45_100 },
